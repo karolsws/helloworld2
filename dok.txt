@@ -1,2 +1,4 @@
-plik 2
 plik 23
+jplik 46 
+plik 73
+plik98
